@@ -1,4 +1,5 @@
 import unittest
+from main immport *
 
 class UnitTests( unittest.TestCase ): 
    def test_a1_defined(self):
