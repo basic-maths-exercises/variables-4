@@ -8,7 +8,7 @@ except:
     import AutoFeedback.varchecks as vc
 
 import unittest
-from main immport *
+from main import *
 
 class UnitTests( unittest.TestCase ): 
    def test_a1(self):
@@ -18,4 +18,4 @@ class UnitTests( unittest.TestCase ):
    def test_c3(self):
       assert( vc.check_vars("c3",3*(9+4) ) )
    def test_d4(self):
-      assert( vc.chec_vars("d4",(7+4)*5) ) 
+      assert( vc.check_vars("d4",(7+4)*5) ) 
