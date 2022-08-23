@@ -9,14 +9,22 @@ var = (5+4)*3
 print( var )
 ```
 
-If you copy and paste this to the cell on the right and run the code you should see that the number 27 is output.  27 is output because the first line sets the variable var equal to the output of the calculation (5+4)*3 (i.e. 27).  The print command then outputs whatever value is stored in the variable called var.
+If you copy and paste this to the cell on the right and run the code you should see that the number 27 is output.  27 is output because the first line sets the variable var equal to the output of the calculation `(5+4)*3` (i.e. 27).  The print command then outputs whatever value is stored in the variable called var.
 
 When I test your code I can check if you have defined variables with specific names and if you have set these variables to the correct value.  To test if you have understood this idea of variables I would thus like you to write a code in the cell to the left that sets the variables on the left-hand sides of the equations given below as follows:   
 
-![](https://render.githubusercontent.com/render/math?math=a1=3)
+$$
+a1=3
+$$
 
-![](https://render.githubusercontent.com/render/math?math=b2=\frac{4%2B5}{2})
+$$
+b2=\frac{4+5}{2}
+$$
 
-![](https://render.githubusercontent.com/render/math?math=c3=3(9%2B4))
+$$
+c3=3(9+4)
+$$
 
-![](https://render.githubusercontent.com/render/math?math=d4=(7%2B4)\frac{10}{2})
+$$
+d4=(7+4)\frac{10}{2}
+$$
