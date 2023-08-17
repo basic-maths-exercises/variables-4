@@ -13,18 +13,4 @@ If you copy and paste this to the cell on the right and run the code you should 
 
 When I test your code I can check if you have defined variables with specific names and if you have set these variables to the correct value.  To test if you have understood this idea of variables I would thus like you to write a code in the cell to the left that sets the variables on the left-hand sides of the equations given below as follows:   
 
-$$
-a1=3
-$$
-
-$$
-b2=\frac{4+5}{2}
-$$
-
-$$
-c3=3(9+4)
-$$
-
-$$
-d4=(7+4)\frac{10}{2}
-$$
+![](equation.png)
